@@ -24,18 +24,18 @@ _onDataArrived(newData) {
 
 ### Methods
 
-* [`constructor`](listviewdatasource.md#constructor)
-* [`cloneWithRows`](listviewdatasource.md#clonewithrows)
-* [`cloneWithRowsAndSections`](listviewdatasource.md#clonewithrowsandsections)
-* [`getRowCount`](listviewdatasource.md#getrowcount)
-* [`getRowAndSectionCount`](listviewdatasource.md#getrowandsectioncount)
-* [`rowShouldUpdate`](listviewdatasource.md#rowshouldupdate)
-* [`getRowData`](listviewdatasource.md#getrowdata)
-* [`getRowIDForFlatIndex`](listviewdatasource.md#getrowidforflatindex)
-* [`getSectionIDForFlatIndex`](listviewdatasource.md#getsectionidforflatindex)
-* [`getSectionLengths`](listviewdatasource.md#getsectionlengths)
-* [`sectionHeaderShouldUpdate`](listviewdatasource.md#sectionheadershouldupdate)
-* [`getSectionHeaderData`](listviewdatasource.md#getsectionheaderdata)
+* [`constructor`](exampledoc4.md#constructor)
+* [`cloneWithRows`](exampledoc4.md#clonewithrows)
+* [`cloneWithRowsAndSections`](exampledoc4.md#clonewithrowsandsections)
+* [`getRowCount`](exampledoc4.md#getrowcount)
+* [`getRowAndSectionCount`](exampledoc4.md#getrowandsectioncount)
+* [`rowShouldUpdate`](exampledoc4.md#rowshouldupdate)
+* [`getRowData`](exampledoc4.md#getrowdata)
+* [`getRowIDForFlatIndex`](exampledoc4.md#getrowidforflatindex)
+* [`getSectionIDForFlatIndex`](exampledoc4.md#getsectionidforflatindex)
+* [`getSectionLengths`](exampledoc4.md#getsectionlengths)
+* [`sectionHeaderShouldUpdate`](exampledoc4.md#sectionheadershouldupdate)
+* [`getSectionHeaderData`](exampledoc4.md#getsectionheaderdata)
 
 ---
 
