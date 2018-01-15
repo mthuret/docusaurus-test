@@ -18,14 +18,14 @@ const users = [
 const siteConfig = {
   title: 'Test Site' /* title for your website */,
   tagline: 'A website for testing',
-  url: 'https://facebook.github.io' /* your website url */,
-  baseUrl: '/test-site/' /* base url for your project */,
-  projectName: 'test-site',
+  //url: 'https://facebook.github.io' /* your website url */,
+  baseUrl: '/docusaurus-test/' /* base url for your project */,
+  projectName: 'docusaurus-test',
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    { doc: 'doc1', label: 'Docs' },
+    { doc: 'doc4', label: 'API' },
+    { page: 'help', label: 'Help' },
+    { blog: true, label: 'Blog' },
   ],
   users,
   /* path to images for header/footer */
@@ -42,7 +42,7 @@ const siteConfig = {
     'Copyright © ' +
     new Date().getFullYear() +
     ' Your Name or Your Company Name',
-  // organizationName: 'deltice', // or set an env variable ORGANIZATION_NAME
+  organizationName: 'mthuret', // or set an env variable ORGANIZATION_NAME
   // projectName: 'test-site', // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
@@ -50,7 +50,7 @@ const siteConfig = {
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/facebook/test-site',
+  repoUrl: 'https://github.com/mthuret/docusaurus-test',
 };
 
 module.exports = siteConfig;
